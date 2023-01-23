@@ -1,0 +1,15 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.AssemblyInfoInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.AssemblyInfo.cs
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\bin\Debug\net6.0\Integrador.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\bin\Debug\net6.0\Integrador.deps.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\bin\Debug\net6.0\Integrador.runtimeconfig.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\bin\Debug\net6.0\Integrador.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\bin\Debug\net6.0\Integrador.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\refint\Integrador.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\Integrador.genruntimeconfig.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 5\Integrador\Integrador\Integrador\obj\Debug\net6.0\ref\Integrador.dll

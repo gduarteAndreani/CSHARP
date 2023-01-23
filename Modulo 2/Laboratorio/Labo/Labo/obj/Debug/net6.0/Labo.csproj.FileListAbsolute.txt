@@ -1,0 +1,15 @@
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\bin\Debug\net6.0\Labo.exe
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\bin\Debug\net6.0\Labo.deps.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\bin\Debug\net6.0\Labo.runtimeconfig.json
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\bin\Debug\net6.0\Labo.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\bin\Debug\net6.0\Labo.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.csproj.AssemblyReference.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.AssemblyInfoInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.AssemblyInfo.cs
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.csproj.CoreCompileInputs.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\refint\Labo.dll
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.pdb
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\Labo.genruntimeconfig.cache
+C:\Users\gduarte\OneDrive - ANDREANI LOGISTICA SA\Documentos\Cursos de EdIT\C#\Modulo 2\Laboratorio\Labo\Labo\obj\Debug\net6.0\ref\Labo.dll
